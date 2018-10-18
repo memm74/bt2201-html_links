@@ -10,11 +10,9 @@ Just like in last week's workshop you will add some content to a very basic html
 
 #### The quick way...
 
-If you like you can edit the document directly in GitHub's web interface. This is a very convenient way of editing the file. 
+If you like you can edit the document directly in GitHub's web interface. This is a very convenient way of editing the file, but this approach will make it difficult to keep the files on bimserver2 and in GitHub in sync.  
 
-If you want to test your files (especially in the future when we've started using PHP) you should upload them to your web space on bimserver2.com. 
-
-If you want to have a quick look whether your html files are working you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
+If you want to have a quick look whether your html files look ok you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
 
 #### The preferred way...
 
@@ -38,9 +36,11 @@ Show that you can use the following HTML elements by creating a set of documents
 * Comments, horizontal rules
 
 
-* Give the page(s) a meaningful title
-* Upload the file(s) to your area on bimserver2.com
-* ☞Content, file and folder names (except links.html) are up to you
+* ☞Add the final URL on bimserver2.com to the comment at the top of your files.  
+* ☞Give the page(s) a meaningful title (`<title></title>`).
+* ☞Upload the file(s) to your area on bimserver2.com
+* ☞Content, file and folder names (except links.html) are up to you.
+* ☞Upload the file(s) to your area on bimserver2.com.
 
 You are welcome to copy and paste HTML from these handouts, but the quotes might need changing from opening double quotes (“) and closing double quotes (”) to straight double quotes ("). 
  
@@ -48,6 +48,4 @@ Commit early, commit often - that way you can go back if you have made a mistake
 
 Once you are done be sure to commit your changes (that will save them to the repository) and to push them to GitHub (so that I can see the work you have done).
 
-This task is part of your first assignment. 
-
-As this task is part of the first assignment you should not work together and not show the final version of your files on the module discussion board.
+Work on this task by yourself, not in groups.
