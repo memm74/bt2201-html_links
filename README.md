@@ -4,7 +4,7 @@
 
 ### Overview
 
-Just like in last week's workshop you will add some content to a very basic html document. This time the initial html document is called 'links.html'. It can be found in this repository. 
+Just like in the previous task you will add some content to a very basic HTML document. This time the initial HTML document is called 'links.html'. It can be found in this repository. 
 
 ### Editing
 
@@ -12,7 +12,7 @@ Just like in last week's workshop you will add some content to a very basic html
 
 If you like you can edit the document directly in GitHub's web interface. This is a very convenient way of editing the file, but this approach will make it difficult to keep the files on bimserver2 and in GitHub in sync.  
 
-If you want to have a quick look whether your html files look ok you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
+If you want to have a quick look whether your HTML files look ok you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
 
 #### The preferred way...
 
